@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 -->
 - 🏢 I'm currently working with Bosch Global Software Technologies as a Senior Software Engineer
   - Started my career in October 2017 with NTT Data GDS Pvt Ltd
-  - 
   - Joined Inspirage Software Consulting LLC in Feb 2020 and decided to part ways, in Oct 2021, with this wonderful organization and people around in order to explore new opportunities and different domains.
   - Joined BGSW as Sr. Software Engineer in Oct 2021 and have been part of the backend team which works on developing a workflow automation platform.
 

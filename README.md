@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=atuldas)
 [![Years Badge](https://badges.pufler.dev/years/atuldas)](https://badges.pufler.dev)
